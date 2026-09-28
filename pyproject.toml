@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dense-feedforward-mlp-backprop-skill"
+version = "1.0.0"
+description = "Multi-layer perceptron (MLP) feedforward inference with Xavier/Glorot initialization and activations"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-dense-feedforward-mlp-backprop-skill.git"
