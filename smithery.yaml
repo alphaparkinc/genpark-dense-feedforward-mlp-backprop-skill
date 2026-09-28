@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-dense-feedforward-mlp-backprop-skill
+service:
+  name: genpark-dense-feedforward-mlp-backprop-skill
+  command: python
+  args:
+    - mcp_server.py
