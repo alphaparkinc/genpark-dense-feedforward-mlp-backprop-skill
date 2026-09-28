@@ -1,0 +1,9 @@
+{
+  "name": "genpark-dense-feedforward-mlp-backprop-skill",
+  "version": "1.0.0",
+  "description": "Multi-layer perceptron (MLP) feedforward inference with Xavier/Glorot initialization and activations",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
